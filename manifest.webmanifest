@@ -1,7 +1,7 @@
 {
   "name": "Daily Hours of Service Log",
   "short_name": "HOS Log",
-  "description": "Temporary on-device manual backup hours-of-service log. Data stays on this phone.",
+  "description": "Temporary on-device manual backup hours-of-service log. Data stays on this phone. Created by Ruben Diaz-Cruz.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
